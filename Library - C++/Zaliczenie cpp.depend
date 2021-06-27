@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1606567098 source:c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\main.cpp
+	<iostream>
+	"generyczna.h"
+	"popularnonaukowa.h"
+	"beletrystyka.h"
+	"miesiecznik.h"
+	"tygodnik.h"
+	"dziennik.h"
+	"artykul.h"
+
+1605555185 c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\wydawnictwo.h
+	<string>
+	<iostream>
+	<fstream>
+
+1606566042 source:c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\wydawnictwo.cpp
+	"wydawnictwo.h"
+
+1606566042 source:c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\beletrystyka.cpp
+	"beletrystyka.h"
+
+1605573855 source:c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\ksiazka.cpp
+	"ksiazka.h"
+
+1606566042 source:c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\popularnonaukowa.cpp
+	"popularnonaukowa.h"
+
+1605561544 c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\ksiazka.h
+	"wydawnictwo.h"
+
+1605562799 c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\popularnonaukowa.h
+	"ksiazka.h"
+	"generyczna.h"
+
+1605559029 c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\beletrystyka.h
+	"ksiazka.h"
+	"generyczna.h"
+
+1605572762 source:c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\czasopismo.cpp
+	"czasopismo.h"
+
+1605561544 c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\czasopismo.h
+	"wydawnictwo.h"
+
+1606566042 source:c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\miesiecznik.cpp
+	"miesiecznik.h"
+
+1605562799 c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\miesiecznik.h
+	"czasopismo.h"
+	"generyczna.h"
+
+1605573855 source:c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\tygodnik.cpp
+	"tygodnik.h"
+
+1605563889 c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\tygodnik.h
+	"czasopismo.h"
+
+1605573855 source:c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\dziennik.cpp
+	"dziennik.h"
+
+1605563889 c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\dziennik.h
+	"czasopismo.h"
+
+1605564230 c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\artykul.h
+	"tygodnik.h"
+	"dziennik.h"
+	"generyczna.h"
+
+1606565904 source:c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\artykul.cpp
+	"artykul.h"
+
+1605574734 c:\users\maciej\desktop\studia\semestr 3\programowanie obiektowe lab\zaliczenie cpp\zaliczenie cpp\generyczna.h
+	<vector>
+
